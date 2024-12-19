@@ -1,3 +1,5 @@
+(This project is being developed as an extension of the solution I created for the Web App module coursework at my university. Building on the initial implementation, I am currently enhancing its functionality, design, and overall scope to create a more robust and polished application.)
+
 a search tool that finds pages containing certain search terms in a website.
 
 The search tool can:
