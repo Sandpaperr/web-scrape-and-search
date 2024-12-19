@@ -8,7 +8,6 @@ from indexing import *
 from global_variables import SECONDS_TO_WAIT_BETWEEN_REQUESTS
 
 
-# TODO: wait 6 second before crawling 
 class Spider:
     project_name = ""
     base_url = ""
