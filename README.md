@@ -55,14 +55,17 @@ inverted_index.json: Index dictionary for all crawled text
 🔍 Sample Query Result
 Example of ranked URLs for query: find human truth
 
+```diff
 +--------+-------------------------------------------+
 | Rank   | URL                                       |
 +--------+-------------------------------------------+
 | 1      | https://quotes.toscrape.com/page/1/       |
 | 2      | https://quotes.toscrape.com/page/3/       |
 +--------+-------------------------------------------+
+```
 📁 Folder Structure
 
+```kotlin
 project/
 │
 ├── interface.py
@@ -77,3 +80,4 @@ project/
 │   ├── queue.txt
 │   ├── crawled.txt
 │   └── inverted_index.json
+```
