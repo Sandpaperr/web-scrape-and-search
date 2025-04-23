@@ -1,8 +1,4 @@
-""" TODO: this index starts from the file, 
-the one I need starts from a string probably. 
-I need to either pass the soup (recommended)
-or the soup.text
-"""
+
 def index_text_file(file):
     d = dict()
     for line in file:

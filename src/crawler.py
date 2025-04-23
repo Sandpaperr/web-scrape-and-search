@@ -5,7 +5,7 @@ from general import *
 from global_variables import *
 
 
-# TODO: change it from threads to only one
+
 thread_queue = Queue()
 Spider(PROJECT_NAME, HOMEPAGE, DOMAIN_NAME, INVERTED_INDEX_FILE)
 

@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urljoin
+from global_variables import HOMEPAGE
 
-BASE_URL = "https://quotes.toscrape.com"
+BASE_URL = HOMEPAGE
 
 
 
